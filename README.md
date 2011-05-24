@@ -1,12 +1,14 @@
-BTShortener is a simple URL shortening library for iOS. It's goal is to make adding URL shortening to apps quick and easy.
+BTShortener is a simple URL shortening library for iOS. Its goal is to make adding URL shortening to apps quick and easy.
+
+Patches are very welcomed...
 
 Requirements
-============
+------------
 1. [asi-http-request][asi]
 2. [json-framework][jsonframework]
 
 License
-============
+------------
 Released under BSD license. See License.txt for details.
 
 [asi]: https://github.com/pokeb/asi-http-request
