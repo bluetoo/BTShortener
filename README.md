@@ -6,6 +6,7 @@ Requirements
 ------------
 1. [asi-http-request][asi]
 2. [json-framework][jsonframework]
+3. iOS 4+ (blocks)
 
 License
 ------------
