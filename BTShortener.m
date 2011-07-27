@@ -41,7 +41,7 @@
 @synthesize service;
 @synthesize shortenedUrl;
 
-- (void)shortenLink:(NSString *)url success:(void(^)())successblock failure:(void(^)(NSString *errmsg))failureblock
+- (void)shortenLink:(NSString *)url success:(void(^)())successblock failure:(void(^)())failureblock
 {
     switch(service)
     {
